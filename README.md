@@ -95,17 +95,16 @@ The dataset contains customer information such as:
 The Random Forest model achieved good performance in predicting customer churn.
 
 **Important Features:**
-
-| Feature | Importance |
-|----------|------------|
-| MonthlyCharges | 0.1765 |
-| Tenure | 0.1750 |
-| TotalCharges | 0.1677 |
-| Contract | 0.0820 |
-| PaymentMethod | 0.0512 |
-| OnlineSecurity | 0.0480 |
-| TechSupport | 0.0431 |
-
+	Feature      Important
+	customerID	|0.130084|
+	gender	    |0.024202|
+	SeniorCitizen	|0.017799|
+	Partner	|0.019498|
+	Dependents	|0.017132|
+	tenure	|0.154153|
+	PhoneService	|0.005301|
+	MultipleLines	|0.020165|
+	InternetService	|0.023643|
 ---
 
 ## 💡 Key Insights
