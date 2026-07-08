@@ -95,6 +95,7 @@ The dataset contains customer information such as:
 The Random Forest model achieved good performance in predicting customer churn.
 
 **Important Features:**
+
 	Feature      Important
 	customerID	|0.130084|
 	gender	    |0.024202|
